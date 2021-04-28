@@ -3,5 +3,5 @@
   <a href="https://azishapidin.com">Personal Blog</a> •
   <a href="https://www.linkedin.com/in/azishapidin/">LinkedIn</a> •
   <a href="https://www.instagram.com/azishapidin/">Instagram</a> •
-  <a href="https://www.facebook.com/azishapidin">Facebook</a> •
+  <a href="https://www.facebook.com/azishapidin">Facebook</a>
 </p>
